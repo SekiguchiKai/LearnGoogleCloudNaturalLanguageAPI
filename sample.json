@@ -1,0 +1,225 @@
+{
+    "sentences": [
+        {
+            "text": {
+                "content": "Natural Language API Client LibrariesクライアントをGoで実装してみる。"
+            }
+        }
+    ],
+    "tokens": [
+        {
+            "text": {
+                "content": "Natural"
+            },
+            "part_of_speech": {
+                "tag": 12,
+                "proper": 1
+            },
+            "dependency_edge": {
+                "head_token_index": 5,
+                "label": 26
+            },
+            "lemma": "Natural"
+        },
+        {
+            "text": {
+                "content": "Language",
+                "begin_offset": 8
+            },
+            "part_of_speech": {
+                "tag": 6,
+                "proper": 1
+            },
+            "dependency_edge": {
+                "head_token_index": 2,
+                "label": 26
+            },
+            "lemma": "Language"
+        },
+        {
+            "text": {
+                "content": "API",
+                "begin_offset": 17
+            },
+            "part_of_speech": {
+                "tag": 6,
+                "proper": 1
+            },
+            "dependency_edge": {
+                "head_token_index": 5,
+                "label": 26
+            },
+            "lemma": "API"
+        },
+        {
+            "text": {
+                "content": "Client",
+                "begin_offset": 21
+            },
+            "part_of_speech": {
+                "tag": 6,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 4,
+                "label": 26
+            },
+            "lemma": "Client"
+        },
+        {
+            "text": {
+                "content": "Libraries",
+                "begin_offset": 28
+            },
+            "part_of_speech": {
+                "tag": 6,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 5,
+                "label": 26
+            },
+            "lemma": "Libraries"
+        },
+        {
+            "text": {
+                "content": "クライアント",
+                "begin_offset": 37
+            },
+            "part_of_speech": {
+                "tag": 6,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 9,
+                "label": 18
+            },
+            "lemma": "クライアント"
+        },
+        {
+            "text": {
+                "content": "を",
+                "begin_offset": 55
+            },
+            "part_of_speech": {
+                "tag": 9,
+                "case": 1,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 5,
+                "label": 45
+            },
+            "lemma": "を"
+        },
+        {
+            "text": {
+                "content": "Go",
+                "begin_offset": 58
+            },
+            "part_of_speech": {
+                "tag": 12,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 9,
+                "label": 64
+            },
+            "lemma": "Go"
+        },
+        {
+            "text": {
+                "content": "で",
+                "begin_offset": 60
+            },
+            "part_of_speech": {
+                "tag": 9,
+                "case": 2,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 7,
+                "label": 45
+            },
+            "lemma": "で"
+        },
+        {
+            "text": {
+                "content": "実装",
+                "begin_offset": 63
+            },
+            "part_of_speech": {
+                "tag": 6,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 9,
+                "label": 54
+            },
+            "lemma": "実装"
+        },
+        {
+            "text": {
+                "content": "し",
+                "begin_offset": 69
+            },
+            "part_of_speech": {
+                "tag": 11,
+                "form": 5,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 9,
+                "label": 24
+            },
+            "lemma": "する"
+        },
+        {
+            "text": {
+                "content": "て",
+                "begin_offset": 72
+            },
+            "part_of_speech": {
+                "tag": 9,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 9,
+                "label": 45
+            },
+            "lemma": "て"
+        },
+        {
+            "text": {
+                "content": "みる",
+                "begin_offset": 75
+            },
+            "part_of_speech": {
+                "tag": 11,
+                "form": 4,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 9,
+                "label": 66
+            },
+            "lemma": "みる"
+        },
+        {
+            "text": {
+                "content": "。",
+                "begin_offset": 81
+            },
+            "part_of_speech": {
+                "tag": 10,
+                "proper": 2
+            },
+            "dependency_edge": {
+                "head_token_index": 9,
+                "label": 32
+            },
+            "lemma": "。"
+        }
+    ],
+    "language": "ja"
+}
